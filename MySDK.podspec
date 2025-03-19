@@ -140,7 +140,7 @@ Pod::Spec.new do |spec|
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # spec.dependency "JSONKit", "~> 1.4"
   # 封装的framework依赖的第三方库
-  spec.dependency 'Toast','4.0.0'
+  spec.dependency 'Toast','4.1.1'
 
   # 工程配置
   spec.user_target_xcconfig = { 'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES' }
