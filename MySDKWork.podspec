@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "MySDK"
+  spec.name         = "MySDKWork"
   spec.version      = "1.0.0"
   spec.summary      = "A short description of MySDK."
 
@@ -123,7 +123,7 @@ Pod::Spec.new do |spec|
   # spec.framework  = "SomeFramework"
   # spec.frameworks = "SomeFramework", "AnotherFramework"
   # 封装的framework名称
-  spec.ios.vendored_frameworks = 'MySDK.xcframework'
+  spec.ios.vendored_frameworks = 'MySDKWork.xcframework'
 
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"

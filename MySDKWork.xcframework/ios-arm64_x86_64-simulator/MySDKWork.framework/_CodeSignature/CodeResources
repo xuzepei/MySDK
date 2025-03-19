@@ -4,9 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/MySDK.h</key>
+		<key>Headers/MySDKWork.h</key>
 		<data>
-		tlammu9TW8bBqmbs/nkeExVLhc0=
+		5sE/npt1L+pPGIG1ofk3llLKlUA=
 		</data>
 		<key>Headers/Test.h</key>
 		<data>
@@ -14,20 +14,20 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		UwGXf+Hl7Zhyl9aMMiLthqI/TqE=
+		itVgbxn8GS/hVYJLOhrL14CU5qQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		raCw6t7SYt7bvH8OoHpHlCWU3bQ=
+		GawRVOZEvbvp7Gk0FRH1vQhnuSQ=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/MySDK.h</key>
+		<key>Headers/MySDKWork.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6DwaKFnYTtOe2TwHAEiIqNKm3G7HBnQqF9Ui7S8CQMI=
+			9bLnGfV9rv7vgiZr9itjJdxFi9GXm4YSisTkSgfGafk=
 			</data>
 		</dict>
 		<key>Headers/Test.h</key>
@@ -41,7 +41,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VAWb4BugJASnlZzGOr97BGfmJNrV5Glnlnn5PIbYa6I=
+			o8OG32Bsy2ceia5QV1h7p1czd5Pd2+KEIG4kWOGR6dY=
 			</data>
 		</dict>
 	</dict>
